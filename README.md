@@ -1,26 +1,16 @@
 
-<h3>Snapshot:</h3>
-<div align="center">
- <p float="left">
-  <img src="#" width="700" height="500"/>
-	 <br/>
-  <img src="#" width="430" height="300"/> 
-  <img src="#" width="430" height="300"/>
-  <img src="#" width="430" height="300"/>
-   <img src="#" width="430" height="300"/>
-	 <br/>
-  <img src="#" width="700" height="500"/>
-	</p>
-</div>
+<h3>Materialize-CSS:</h3>
 <br>
-<h3>Commands:</h3>
-	&nbsp;<span>npm install &nbsp;&nbsp;&nbsp;//for install node_modules</span>
-        <br/>
-	&nbsp;<span>react-native link&nbsp;&nbsp;&nbsp;//for linking libraries</span>
-	<br/>
-	&nbsp;<span>react-native run-android&nbsp;&nbsp;&nbsp;//for run android</span>
-        <br/>
-	&nbsp;<span>react-native run-ios&nbsp;&nbsp;&nbsp;//for run ios</span>
+<p>
+	Modern framework based on Material Design.Similar to Bootstrap,Foundation etc.Interactive components.Extremely Customizable.
+</p>
+<br>
+<h3>Material Design:</h3>
+<br>
+<p>
+Design language/scheme developed by Google in 2014.Make liberal use of gird layouts.Responsive animations,shadows etc.Base on “paper & ink”.Most Google based UIs use the material design concept.Used Email, One Drive etc.	
+</p>
+	
 
 
 
